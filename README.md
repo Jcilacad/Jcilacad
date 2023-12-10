@@ -26,8 +26,5 @@
 
 ![Bootstrap](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=Java&color=ffffff) ![Bootstrap](https://img.shields.io/badge/-Spring%20Boot-05122A?style=for-the-badge&logo=Spring-Boot&color=ffffff) ![Bootstrap](https://img.shields.io/badge/-Spring%20MVC-05122A?style=for-the-badge&logo=Spring-MVC&color=ffffff) ![Bootstrap](https://img.shields.io/badge/-Spring%20Security-05122A?style=for-the-badge&logo=Spring-Security&color=ffffff) ![Bootstrap](https://img.shields.io/badge/-Spring%20data%20jpa-05122A?style=for-the-badge&logo=Spring-data-jpa&color=ffffff) ![Bootstrap](https://img.shields.io/badge/-Spring%20AOP-05122A?style=for-the-badge&logo=Spring-AOP&color=ffffff) ![Bootstrap](https://img.shields.io/badge/-Spring%20rest-05122A?style=for-the-badge&logo=Spring-rest&color=ffffff) ![Bootstrap](https://img.shields.io/badge/-Hibernate-05122A?style=for-the-badge&logo=Hibernate&color=ffffff) ![Bootstrap](https://img.shields.io/badge/-Thymeleaf-05122A?style=for-the-badge&logo=Thymeleaf&color=ffffff) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=MySQL&color=ffffff) ![Bootstrap](https://img.shields.io/badge/-Maven-05122A?style=for-the-badge&logo=Maven&color=ffffff)
 
-<div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jcilacad&show_icons=true&locale=en&layout=compact" alt="jcilacad" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=jcilacad&" alt="jcilacad" />
-</div>
+
 
