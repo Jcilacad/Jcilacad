@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/john-christopher-ilacad-4a2a761bb//)
 [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/jcilacadl/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:johnchristopherilacad27@gmail.com)
-[![Leetcode](https://img.shields.io/badge/-Leetcode-c14438?style=flat&logo=Leetcode&logoColor=white)](https://leetcode.com/jcilacad/)
+[![Leetcode](https://img.shields.io/badge/-Leetcode-FFA500?style=flat&logo=Leetcode&logoColor=white)](https://leetcode.com/jcilacad/)
 [![Github](https://img.shields.io/github/followers/jcilacad?label=Follow&style=social)](https://github.com/jcilacad)
 
 💻 Currently an undergraduate Computer Science student at the University of the City of Manila.
